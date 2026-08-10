@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-gde-realno-vyigryvayut.github.io
+Sitemap: https://kazino-gde-realno-vyigryvayut.github.io/sitemap.xml
